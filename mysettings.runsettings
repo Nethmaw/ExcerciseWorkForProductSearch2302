@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+	<TestRunParameters>
+		<Parameter name="browser" value="chrome" />
+		<Parameter name="baseURL" value="https://www.edgewordstraining.co.uk/demo-site/" />
+	</TestRunParameters>
+</RunSettings>
+
+
